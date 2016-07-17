@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description>web developer, super heroes enthusiast</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 17 Jul 2016 21:38:28 +0700</pubDate>
+    <lastBuildDate>Sun, 17 Jul 2016 21:38:28 +0700</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Wordpress files permissions ownerships</title>
+        <description>&lt;noscript&gt;&lt;pre&gt;400: Invalid request
+&lt;/pre&gt;&lt;/noscript&gt;
+&lt;script src=&quot;https://gist.github.com/cf86c13f6e33db89d59e.js&quot;&gt; &lt;/script&gt;
+
+</description>
+        <pubDate>Wed, 29 Jul 2015 00:00:00 +0700</pubDate>
+        <link>/blog/wordpress-files-permissions-ownerships</link>
+        <guid isPermaLink="true">/blog/wordpress-files-permissions-ownerships</guid>
+        
+        
+        <category>wordpress</category>
+        
+      </item>
+    
+      <item>
+        <title>Our story, our journey</title>
+        <description>&lt;div class=&quot;embed-wrapper&quot;&gt;
+	&lt;iframe src=&quot;https://player.vimeo.com/video/119525709?title=0&amp;amp;byline=0&amp;amp;portrait=0&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;It is our video, was made at Surabaya in many places. The story about, how we met, how we past the day after that, and how it end, and begin a new page of our life.&lt;/p&gt;
+
+&lt;p&gt;Cast :&lt;br /&gt;
+Tony as Kamen Rider :D kidding, as himself&lt;br /&gt;
+Nevy as herself&lt;/p&gt;
+</description>
+        <pubDate>Tue, 26 May 2015 18:11:20 +0700</pubDate>
+        <link>/blog/our-story-our-journey</link>
+        <guid isPermaLink="true">/blog/our-story-our-journey</guid>
+        
+        <category>rizawa</category>
+        
+        
+        <category>family</category>
+        
+      </item>
+    
+      <item>
+        <title>Furious 7</title>
+        <description>&lt;p&gt;Fast and furious, I watched from The Fast and Furious where Dominiq’s ride was Mazda RX7 and Bryan’s was Totoya Eclipse and Toyota Supra. Well it is one hell of a movie franchise. I think it will be some anti hero. Special agent from goverment and the weapon are CARS! Thats cool.&lt;/p&gt;
+
+&lt;p&gt;But the sad part is Bryan is dead, thats make Furious 7 more sentimentil than the others. The moment where Dom and Bryan split their way where Bryan ride his Supra in the first movie, but white colored and Dom ride Dodge Charger, it bring me back to the first movie. Shit I cant explain it with words. It just EPIC. Here is the clip&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cldup.com/RStXqTihdO.gif&quot; alt=&quot;dombryan&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 03 May 2015 20:05:00 +0700</pubDate>
+        <link>/blog/furious-7</link>
+        <guid isPermaLink="true">/blog/furious-7</guid>
+        
+        
+        <category>movie</category>
+        
+      </item>
+    
+      <item>
+        <title>Install phpmyadmin with nginx as server</title>
+        <description>&lt;pre&gt;sudo apt-get install phpmyadmin&lt;/pre&gt;
+&lt;pre&gt;sudo ln -s /usr/share/phpmyadmin/ /usr/share/nginx/www&lt;/pre&gt;
+&lt;pre&gt;sudo service nginx restart&lt;/pre&gt;
+</description>
+        <pubDate>Wed, 18 Mar 2015 22:05:00 +0700</pubDate>
+        <link>/blog/phpmyadmin-on-nginx</link>
+        <guid isPermaLink="true">/blog/phpmyadmin-on-nginx</guid>
+        
+        
+        <category>code</category>
+        
+      </item>
+    
+      <item>
+        <title>Pendulum, Amazing Love Story</title>
+        <description>&lt;p&gt;Damn..&lt;/p&gt;
+
+&lt;div class=&quot;vid&quot;&gt;
+&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/O26qmkHYrZs&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 17 Mar 2015 23:05:00 +0700</pubDate>
+        <link>/blog/pendulum</link>
+        <guid isPermaLink="true">/blog/pendulum</guid>
+        
+        
+        <category>family</category>
+        
+      </item>
+    
+      <item>
+        <title>A Sky Full of Stars(Kamu, iya kamuu)</title>
+        <description>&lt;p&gt;Cause you are the sky full of stars. Iyaaa kamu..&lt;/p&gt;
+
+&lt;div class=&quot;vid&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/VPRjCeoBqrI&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 12 Mar 2015 21:12:20 +0700</pubDate>
+        <link>/blog/a-sky-full-of-stars</link>
+        <guid isPermaLink="true">/blog/a-sky-full-of-stars</guid>
+        
+        <category>rizawa</category>
+        
+        
+        <category>family</category>
+        
+      </item>
+    
+      <item>
+        <title>Fluid width video</title>
+        <description>&lt;p&gt;Ok this code will make your video (iframe) will flow like a fluid. This code I got from somewhere, I forgot the link.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;html :&lt;/strong&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;videoWrapper&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;iframe&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;width=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;420&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;height=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;315&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youtube.com/embed/C7pP1csDBD4&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;frameborder=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;0&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;allowfullscreen&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;css&lt;/strong&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;nt&quot;&gt;videoWrapper&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+	&lt;span class=&quot;nl&quot;&gt;position&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;relative&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+	&lt;span class=&quot;nl&quot;&gt;padding-bottom&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;56.25%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;c&quot;&gt;/* 16:9 */&lt;/span&gt;
+	&lt;span class=&quot;nl&quot;&gt;padding-top&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;25px&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+	&lt;span class=&quot;nl&quot;&gt;height&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;nc&quot;&gt;.videoWrapper&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;iframe&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+	&lt;span class=&quot;nl&quot;&gt;position&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;absolute&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+	&lt;span class=&quot;nl&quot;&gt;top&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+	&lt;span class=&quot;nl&quot;&gt;left&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+	&lt;span class=&quot;nl&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+	&lt;span class=&quot;nl&quot;&gt;height&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+</description>
+        <pubDate>Thu, 05 Mar 2015 21:53:10 +0700</pubDate>
+        <link>/blog/fluid-width-video</link>
+        <guid isPermaLink="true">/blog/fluid-width-video</guid>
+        
+        <category>css</category>
+        
+        
+        <category>code</category>
+        
+      </item>
+    
+      <item>
+        <title>Jason Momoa as Aquaman</title>
+        <description>&lt;p&gt;In New52, Aquaman is already a badass character. Although the costum not so much different from the past but I like it. From the eyes, we know he is a badass, thanks to Ivan Reis. Here the image, Aquaman full of emotion, as a reader I feel emotional too.&lt;br /&gt;
+&lt;img src=&quot;https://farm9.staticflickr.com/8573/16505118567_1706d0c6eb_o.jpg&amp;quot;&quot; alt=&quot;Ivan Reis Aquaman&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now, in incoming Batman v Superman movie, Zack Snyder release a picture of Jason Momoa as Aquaman. Dude it is super badass!&lt;br /&gt;
+&lt;img src=&quot;https://farm8.staticflickr.com/7287/15966806174_494efdcd7c_c.jpg&quot; alt=&quot;Jason Momoa as Aquaman&quot; /&gt;.&lt;/p&gt;
+
+&lt;p&gt;Can’t wait for this movie.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 04 Mar 2015 22:06:20 +0700</pubDate>
+        <link>/blog/jason-momoa-as-aquaman</link>
+        <guid isPermaLink="true">/blog/jason-momoa-as-aquaman</guid>
+        
+        <category>aquaman,</category>
+        
+        <category>dc,</category>
+        
+        <category>batmanvsuperman</category>
+        
+        
+        <category>alterego</category>
+        
+      </item>
+    
+      <item>
+        <title>Our story, our journey</title>
+        <description>&lt;div class=&quot;video-wrapper&quot;&gt;
+&lt;iframe src=&quot;//player.vimeo.com/video/119525709&quot; width=&quot;500&quot; height=&quot;375&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
+</description>
+        <pubDate>Fri, 27 Feb 2015 19:20:20 +0700</pubDate>
+        <link>/blog/our-story-our-journey</link>
+        <guid isPermaLink="true">/blog/our-story-our-journey</guid>
+        
+        <category>rizawa</category>
+        
+        
+        <category>family</category>
+        
+      </item>
+    
+      <item>
+        <title>Picture of the day [20150208]</title>
+        <description>&lt;p&gt;While watching TV, me and my wife have an idea to take a picture of her belly. Yeah, she come with better ideas.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://igcdn-photos-b-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/10953078_1561783067393353_1846604778_n.jpg&quot; alt=&quot;her belly&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 26 Feb 2015 20:59:20 +0700</pubDate>
+        <link>/blog/picture-of-the-day-20150208</link>
+        <guid isPermaLink="true">/blog/picture-of-the-day-20150208</guid>
+        
+        <category>rizawa</category>
+        
+        
+        <category>family</category>
+        
+      </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,46 @@
+# Blog settings
+permalink: /blog/:title
+
+
+# My variables
+name: sanjayatony
+description: web developer, super heroes enthusiast
+google_verification: null
+
+
+# File management
+include: [".htaccess"]
+exclude: ["README.md", "LICENSE"]
+
+
+# Sass
+sass:
+  style: :compressed
+  sass_dir: _sass
+
+
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
+
+defaults:
+-
+  scope:
+    path: ""
+    type: "posts"
+  values:
+    comments: "true"
+    layout: "post"
+-
+  scope:
+    path: ""
+    type: "posts"
+  values:
+    featured: "false"
+    layout: "post"
+    
+gems:
+  - jekyll-gist
