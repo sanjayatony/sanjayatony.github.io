@@ -13,5 +13,3 @@ You can email me here <mailto:iam@riderm4n.com> or fill in the form or leave a c
 	<input type="text" name="_gotcha" style="display:none" />
     <input type="submit" value="Send">
 </form>
-
-<a class="muut" href="https://muut.com/i/tonysj/comments" type="dynamic">riderm4n</a>
