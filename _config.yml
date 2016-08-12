@@ -1,6 +1,7 @@
 # Blog settings
 permalink: /blog/:title
 
+baseurl: /
 
 # My variables
 name: TS
