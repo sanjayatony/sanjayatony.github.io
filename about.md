@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+description : Hi, my name is Tony Sanjaya, a web developer, a super heroes enthusiast, father of Nauly Sanjaya, husband of Nevya Rizawa.
 permalink: /about/
 ---
 Hi, my name is Tony Sanjaya, a web developer, a super heroes enthusiast, father of Nauly Sanjaya, husband of Nevya Rizawa.
