@@ -5,11 +5,6 @@ categories: etc
 
 I've been busy! So I am not write any blog post for more than a year. That is tipycal reason for a lazy one. Ok, So what happen during the past year?
 
-1. I have a daughter
-2. New work place
-3. New machine
-4. New theme
-
 ## Daughter
 I am a father now, my daughter now she is 14 months old. Yup right now I am officially a #devdad. Everyday become busier and also happier at the same time. If you want to see my daughter, go visit my [instagram](https://www.instagram.com/tonnevlysanjaya/){:target="_blank"}.
 
