@@ -2,7 +2,6 @@
 title:  "I've been busy!"
 categories: etc
 ---
-
 I've been busy! So I am not write any blog post for more than a year. That is tipycal reason for a lazy one. Ok, So what happen during the past year?
 
 ## Daughter
