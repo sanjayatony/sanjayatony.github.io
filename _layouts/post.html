@@ -10,8 +10,8 @@ layout: default
     <div class="post__content"?>
         {{ content }}
 		<p>&nbsp;</p>
-		<p>&nbsp;</p>
-        {% include sharer.html %}
+		{% include sharer.html %}
+        <p>&nbsp;</p><p>&nbsp;</p>
         {% if page.comments %}
 			{% include disqus.html %}
         {% endif %}       
