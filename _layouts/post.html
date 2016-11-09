@@ -11,6 +11,7 @@ layout: default
         {{ content }}
 		<p>&nbsp;</p>
 		<p>&nbsp;</p>
+        {% include sharer.html %}
         {% if page.comments %}
 			{% include disqus.html %}
         {% endif %}       
