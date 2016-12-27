@@ -18,7 +18,12 @@ layout: default
     <ul>
         {% for post in site.posts %}
         <li>
-            <span class="date">{{ post.date | date: '%Y%m%d' }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
+            <span class="date">{{ post.date | date: '%Y%m%d' }}</span> 
+            {% if post.ext_url != "" %}
+                <a href="{{ post.ext_url }}" target="_blank">{{ post.title }} <i class="fa fa-external-link" aria-hidden="true"></i> </a>
+            {% else %}
+                <a href="{{ post.url }}">{{ post.title }}</a>
+            {% endif %}
         </li>
         {% endfor %}
     </ul>
