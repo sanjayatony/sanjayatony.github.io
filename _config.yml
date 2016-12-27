@@ -42,6 +42,12 @@ defaults:
   values:
     featured: "false"
     layout: "post"
+-
+  scope:
+    path: ""
+    type: "posts"
+  values:
+    ext_url: ""
     
 gems:
   - jekyll-gist
