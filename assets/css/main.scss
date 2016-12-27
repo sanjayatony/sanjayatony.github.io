@@ -100,6 +100,9 @@ ul {
             display: inline;
             padding: 0;
             padding-left: 5px;
+            &:first-child{
+            	padding-left:0px;
+            }
         }
     }
 }
@@ -116,7 +119,15 @@ ul {
 
 
 .blog {
-    padding-bottom: 30px;
+	padding-bottom: 30px;
+	.date{
+		display: block;
+		margin-bottom: 7px;
+		@media screen and (min-width: $br) {
+        display: inline-block;
+        margin-bottom: 0px;
+    }
+	}
 
 }
 
